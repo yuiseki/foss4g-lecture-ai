@@ -22,3 +22,10 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+.cache
+.cache/*
+.config/Open Interpreter/conversations/*
+
+.env
+.bash_history
